@@ -1,5 +1,0 @@
-buscar informacion
-revisar informacion
-elegir informacion
-verificar informacion
-subir informacion
